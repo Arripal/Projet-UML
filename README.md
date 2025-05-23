@@ -7,4 +7,4 @@ Pour lancer le front :  `npm start:build`
 
 - Dans le dossier backend
   `npm install`
-  Pour le lancer le serveur : `npm run server`
+  Pour lancer le serveur : `npm run server`
